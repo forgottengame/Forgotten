@@ -1,4 +1,4 @@
-icBinaries
+Binaries
 DerivedDataCache
 Intermediate
 Saved
@@ -13,6 +13,5 @@ Saved
 *.xcworkspace
 
 Content
-Config
 Charactermodels
 Build
