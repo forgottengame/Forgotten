@@ -12,6 +12,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-Content
 Charactermodels
 Build
